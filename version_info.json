@@ -1,4 +1,25 @@
 {
- "WitherTorch.Windows": "1.8-alpha-2.3",
- "WitherTorch.CLI": "1.8-pre_alpha-1"
+ "channels":
+ {
+  "stable":
+  {
+   "WitherTorch.Windows": null,
+   "WitherTorch.CLI": null
+  },
+  "half_stable":
+  {
+   "WitherTorch.Windows": null,
+   "WitherTorch.CLI": null
+  },
+  "fresh":
+  {
+   "WitherTorch.Windows": "1.8-alpha-2.3",
+   "WitherTorch.CLI": "1.8-alpha-1"
+  },
+  "nightly":
+  {
+   "WitherTorch.Windows": "1.8-alpha-2.3",
+   "WitherTorch.CLI": "1.8-alpha-1"
+  }
+ }
 }
