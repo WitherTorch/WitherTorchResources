@@ -78,6 +78,18 @@
         ],
         "20250111": [
             "Zume"
+        ],
+        "20250413": [
+            "True Darkness",
+            "Void Fog",
+            "hidename(nick)",
+            "[ETF] Entity Texture Features - [Fabric & Forge]",
+            "[EMF] Entity Model Features [Fabric & Forge]",
+            "Blur (Forge)",
+            "Blur",
+            "Blur+",
+            "Borderless Window",
+            "Reforgium"
         ]
     },
     "content": [
@@ -153,6 +165,16 @@
         832070,
         296468,
         222378,
-        927564
+        927564,
+        337243,
+        267244,
+        1200277,
+        568563,
+        844662,
+        823106,
+        268324,
+        393563,
+        378979,
+        853424
     ]
 }
