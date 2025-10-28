@@ -90,6 +90,9 @@
             "Blur+",
             "Borderless Window",
             "Reforgium"
+        ],
+        "20251029": [
+            "Total Darkness"
         ]
     },
     "content": [
@@ -175,6 +178,7 @@
         268324,
         393563,
         378979,
-        853424
+        853424,
+        400838
     ]
 }
