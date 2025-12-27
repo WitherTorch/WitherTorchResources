@@ -97,6 +97,10 @@
         "20251123": [
             "Freecam",
             "Just Enough Characters"
+        ],
+        "20251226": [
+            "SekC Physics",
+            "Shulker Tooltip"
         ]
     },
     "content": [
@@ -185,6 +189,8 @@
         853424,
         400838,
         557076,
-        250702
+        250702,
+        309841,
+        292899
     ]
 }
